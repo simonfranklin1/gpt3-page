@@ -1,8 +1,19 @@
-# React + Vite
+# Página  GPT3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page moderna, responsiva e feita em UI/UX.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Feito com
+
+- React JS
+- JavaScript
+- HTML
+- CSS
+
+## Screenshot
+
+![Screenshot](/src/assets/screenshot-gpt3-page.png);
+
+## Autor
+
+- [Simon Franklin](https://github.com/simonfranklin1)
