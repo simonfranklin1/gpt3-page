@@ -12,7 +12,7 @@ Landing page moderna, responsiva e feita em UI/UX.
 
 ## Screenshot
 
-![Screenshot](/src/assets/screenshot-gpt3-page.png);
+![Screenshot](/src/assets/screenshot-gpt3-page.png)
 
 ## Links
 - [Site no ar](https://gpt3-page.vercel.app)
